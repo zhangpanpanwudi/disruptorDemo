@@ -11,6 +11,6 @@ import com.zph.entity.LongEvent;
 public class LongEventHandler implements EventHandler<LongEvent> {
 
     public void onEvent(LongEvent longEvent, long l, boolean b) throws Exception {
-        System.out.println("消费者："+longEvent.getValue());
+        System.out.println("222消费者："+longEvent.getValue());
     }
 }
