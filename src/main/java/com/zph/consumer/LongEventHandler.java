@@ -12,6 +12,7 @@ public class LongEventHandler implements EventHandler<LongEvent> {
 
     public void onEvent(LongEvent longEvent, long l, boolean b) throws Exception {
         System.out.println("消费者："+longEvent.getValue());
-        System.out.println("测试1234");
+        System.out.println("测试—12");
+        System.out.println("测试12341");
     }
 }
