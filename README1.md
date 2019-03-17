@@ -12,3 +12,4 @@ Git has a mutable index called stage.
 My stupid boss still prefers SVN.
 
 sss
+撒大声地
